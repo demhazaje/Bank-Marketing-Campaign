@@ -103,15 +103,19 @@ pip install -r requirements.txt
 --- 
 
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
+
 Dataset sourced from:
 
-[UCI Machine Learning Repository]([url](https://archive.ics.uci.edu/dataset/222/bank+marketing))
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing)  
+- [Kaggle Dataset](https://www.kaggle.com/datasets/pankajbhowmik/bank-marketing-campaign-subscriptions/data)
 
-[Kaggle Dataset]([url](https://www.kaggle.com/datasets/pankajbhowmik/bank-marketing-campaign-subscriptions/data))
+---
 
-📬 Connect
-If you have suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn]([url](https://www.linkedin.com/in/ejazahmed7/)).
+## 📬 Connect
+
+If you have suggestions or feedback, feel free to [open an issue](https://github.com/demhazaje/Bank-Marketing-Campaign/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/ejazahmed7/).
+
 
 
 
