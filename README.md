@@ -97,16 +97,22 @@ The goal of this project is to help the bank:
 
 To install the required libraries:
 
-```bash
+bash
 pip install -r requirements.txt
+
+--- 
 
 
 🙌 Acknowledgments
-Dataset sourced from [UCI Machine Learning Repository]([Link](https://archive.ics.uci.edu/dataset/222/bank+marketing)), also [https://www.kaggle.com/datasets/pankajbhowmik/bank-marketing-campaign-subscriptions/data](Kaggle)
+Dataset sourced from:
+
+[UCI Machine Learning Repository]([url](https://archive.ics.uci.edu/dataset/222/bank+marketing))
+
+[Kaggle Dataset]([url](https://www.kaggle.com/datasets/pankajbhowmik/bank-marketing-campaign-subscriptions/data))
 
 📬 Connect
-If you have suggestions or feedback, feel free to open an issue or reach out via LinkedIn ([LinkedIn](https://www.linkedin.com/in/ejazahmed7/))
----
+If you have suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn]([url](https://www.linkedin.com/in/ejazahmed7/)).
+
 
 
 
