@@ -5,9 +5,13 @@ This project uses machine learning to predict whether a customer will subscribe 
 ---
 
 ## 📁 Project Structure
+
 ├── data/ # Raw data files
+
 ├── Bank_Campaign.ipynb # Jupyter Notebook with full EDA, modeling, and evaluation
+
 ├── README.md # Project overview and documentation
+
 └── requirements.txt # Required libraries
 
 
